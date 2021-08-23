@@ -27,6 +27,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   update-readme:
     name: GitHub README Generator
     runs-on: ubuntu-latest
