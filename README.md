@@ -86,7 +86,7 @@
 Do you like my project or just want to say hi? Feel free to [post](https://github.com/Parajulibkrm/Parajulibkrm/issues/new?title=Guestbook) to my guestbook!
 <!--END_SECTION:guestbook-->
 
-<a href="https://github.com/Parajulibkrm"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Parajulibkrm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia" /></a>
+<a href="https://github.com/Parajulibkrm"><img height="130px" src="https://github-readme-stats.vercel.app/api?username=Parajulibkrm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /><!-- wi*quL3fcV --><img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia" /></a>
 
 
 ![](assets/bottom_header.svg)
