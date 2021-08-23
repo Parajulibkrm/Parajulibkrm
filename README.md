@@ -17,7 +17,7 @@
     <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Parajulibkrm?color=236ad3&labelColor=1da1f2&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Parajulibkrm">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Parajulibkrm?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<a href="https://github.com/Parajulibkrm">
+<a href="https://discord.com/channels/@me/604866751901073428">
     <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/604866751901073428"/></a>
 </p>
 
@@ -30,18 +30,18 @@
 </p>
 
 ### My Github Activity
-<details>
-  <summary>💻 GitHub Profile Stats</summary>
+
   <br/>
-    <img alt="Bikram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Parajulibkrm&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
-  <img alt="Bikram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+  <p align="center">
+    <img  alt="Bikram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Parajulibkrm&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+  </p>
+  <p align="center">
+    <img alt="Bikram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
+  </p>
+  
 
 <p align="center">
-  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
-  <img width="50%" align = "left" src="https://github-readme-stats.vercel.app/api?username=Parajulibkrm&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24.5&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
 </p>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark" />
@@ -78,12 +78,8 @@
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-
 </details>
-<p align="center">
-<a href="https://github.com/Parajulibkrm"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Parajulibkrm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia" /></a>
-</p>
+
 
 
 ### 🙏 My Guestbook 
