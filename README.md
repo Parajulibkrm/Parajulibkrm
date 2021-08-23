@@ -26,8 +26,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ParajuliBkrm.readme)
 ### 👨‍💻 My two best activities are Coding and Listening to Music. 🎶
 <p align="center">
-  <img align="left" width="50%" src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia" />
+  <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
 </p>
 <details>
   <summary>💻 GitHub Profile Stats</summary>
