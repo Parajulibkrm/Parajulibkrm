@@ -55,9 +55,12 @@
 </p>
 
 ### Some More Details
+
 <details>
 <summary>✨ More Detailed Stats </summary>
+
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
+
 **I'm an early 🐤** 
 
 | | | | |
