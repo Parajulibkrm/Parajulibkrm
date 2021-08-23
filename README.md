@@ -17,17 +17,26 @@
     <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/Parajulibkrm?color=236ad3&labelColor=1da1f2&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Parajulibkrm">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Parajulibkrm?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="https://github.com/Parajulibkrm">
+    <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/604866751901073428"/></a>
 </p>
 
 ![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ParajuliBkrm.readme)
+### 👨‍💻 My two best activities are Coding and Listening to Music. 🎶
+<p align="center">
+  <img align="left" width="50%" src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia" />
+</p>
+
+
+
+### Here are some insights of my Github Activity
 
 <p align="center">
-  <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
+  <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
+  <img width="50%" align = "left" src="https://github-readme-stats.vercel.app/api?username=Parajulibkrm&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24.5&theme=algolia" />
 </p>
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark" />
