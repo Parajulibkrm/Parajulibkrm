@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ParajuliBkrm.readme)
 
 <p align="center">
-  <img src="https://spotify-readme-three-theta.vercel.app/api?theme=dark&rainbow=true" />
+  <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
