@@ -24,25 +24,32 @@
 ![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ParajuliBkrm.readme)
+
 ### 👨‍💻 My two best activities are Coding and Listening to Music. 🎶
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <p align="center">
   <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
 </p>
 
-### My Github Activity
 
-  <br/>
-  <p align="center">
-    <img  alt="Bikram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Parajulibkrm&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
-  </p>
-  <p align="center">
-    <img alt="Bikram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
-  </p>
-  
+
+
+### 👨 My Github Activity
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
 </p>
+<br/>
+<p align="center">
+    <img  alt="Bikram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Parajulibkrm&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+</p>
+<p align="center">
+    <img alt="Bikram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
+</p>
+  
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark" />
 </p>
