@@ -29,6 +29,14 @@
   <img align="left" width="50%" src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=algolia" />
 </p>
+<details>
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="Bikram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Parajulibkrm&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+  <img alt="Bikram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
 <p align="center">
   <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
