@@ -7,10 +7,10 @@
   <a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+full-stack+Developer.;Founder+and+CEO+at+Codekavya.;Student+of+Software+Engineering"></a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/saugaatadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saugaatadhikari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saugaatadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saugaatadhikari" height="30" width="40" /></a>
-<a href="https://fb.com/saugaat0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saugaat0" height="30" width="40" /></a>
-<a href="https://instagram.com/saugaatadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saugaatadhikari" height="30" width="40" /></a>
+  <a href="https://twitter.com/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://fb.com/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://instagram.com/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parajulibkrm" height="30" width="40" /></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/Parajulibkrm">
@@ -28,6 +28,8 @@
 <p align="center">
   <img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" />
 </p>
+
+### My Github Activity
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
