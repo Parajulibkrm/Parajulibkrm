@@ -98,6 +98,10 @@
 <details>
 <summary>⚡ My recent Github Activity</summary>
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Sandesh-Sharma/Sandesh-Sharma/pull/1) in [Sandesh-Sharma/Sandesh-Sharma](https://github.com/Sandesh-Sharma/Sandesh-Sharma)
+2. 🗣 Commented on [#4](https://github.com/BESoftware2020/BESoftware2020/issues/4) in [BESoftware2020/BESoftware2020](https://github.com/BESoftware2020/BESoftware2020)
+3. 💪 Opened PR [#9](https://github.com/developers-nepal/companies/pull/9) in [developers-nepal/companies](https://github.com/developers-nepal/companies)
+4. 💪 Opened PR [#120](https://github.com/mesaugat/tech-companies-in-nepal/pull/120) in [mesaugat/tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal)
 <!--END_SECTION:activity-->
 
 </details>
