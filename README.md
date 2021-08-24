@@ -53,9 +53,12 @@
   
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark"/>
 </p>
+
+
 
 ### Some More Details
 
