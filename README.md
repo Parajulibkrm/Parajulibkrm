@@ -97,12 +97,11 @@
 ### 🙏 My Guestbook 
 
 <!--START_SECTION:guestbook-->
-<a href="https://github.com/arjunadhikary"><img src="https://avatars.githubusercontent.com/u/37221412?u=f351943c06c10a26f1274fc4dc97408251f10b5e&v=4" height="30"/></a> <a href="https://github.com/bigyanic"><img src="https://avatars.githubusercontent.com/u/42671917?u=7d11aa31245179ded340336591fb7efdfeb678b9&v=4" height="30"/></a> <a href="https://github.com/saugaatadhikari"><img src="https://avatars.githubusercontent.com/u/51854393?u=22d28b07a4f219f66ecbb232d1bb2f90be91ea94&v=4" height="30"/></a> <a href="https://github.com/Parajulibkrm"><img src="https://avatars.githubusercontent.com/u/39263700?u=868e3eaf3b0de1a1b133ad7d783a8ae5b010d8d9&v=4" height="30"/></a>
+<a href="https://github.com/arjunadhikary"><img src="https://avatars.githubusercontent.com/u/37221412?u=f351943c06c10a26f1274fc4dc97408251f10b5e&v=4" height="30"/></a> <a href="https://github.com/bigyanic"><img src="https://avatars.githubusercontent.com/u/42671917?u=7d11aa31245179ded340336591fb7efdfeb678b9&v=4" height="30"/></a> <a href="https://github.com/saugaatadhikari"><img src="https://avatars.githubusercontent.com/u/51854393?u=22d28b07a4f219f66ecbb232d1bb2f90be91ea94&v=4" height="30"/></a>
 
 * **[arjunadhikary](https://github.com/arjunadhikary) wrote on 8/24/2021:** awesome 😍
 * **[bigyanic](https://github.com/bigyanic) wrote on 8/23/2021:** Damii yarr <3
 * **[saugaatadhikari](https://github.com/saugaatadhikari) wrote on 8/23/2021:** Yoooo! First here............ Noice oneeeeeee
-* **[Parajulibkrm](https://github.com/Parajulibkrm) wrote on 8/23/2021:** Testing This Out
 
 Do you like my project or just want to say hi? Feel free to [post](https://github.com/Parajulibkrm/Parajulibkrm/issues/new?title=Guestbook) to my guestbook!
 <!--END_SECTION:guestbook-->
