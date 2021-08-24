@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia&hide_border=true" />
 </p>
 <br/>
 <p align="center">
