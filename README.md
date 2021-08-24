@@ -30,10 +30,10 @@
 
 ### 👨‍💻 I love listening to Music on my leasure time. 🎶
 
-<a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+<a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
+  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
 </p>
 
 
@@ -95,6 +95,12 @@
 </details>
 
 
+<details>
+<summary>⚡ My recent Github Activity</summary>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 ### 🙏 My Guestbook 
 
