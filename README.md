@@ -136,7 +136,9 @@
 Do you like my project or just want to say hi? Feel free to [post](https://github.com/Parajulibkrm/Parajulibkrm/issues/new?title=Guestbook) to my guestbook!
 <!--END_SECTION:guestbook-->
 
+<hr>
 
-*If you wish to contact me please shoot a mail at [bikram@codekavya.com](mailo:bikram@codekavya.com) .*
+If you wish to contact me please shoot a mail at [ bikram@codekavya.com ](mailo: bikram@codekavya.com)
+
 
 ![](assets/bottom_header.svg)
