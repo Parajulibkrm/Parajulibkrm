@@ -110,7 +110,7 @@
 
 <details>
   <summary>🏆 My Github Trophies</summary>
-  <a href="https://github.com/Parajulibkrm?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=parajulibkrm&theme=discord"/></a>
+  <a href="https://github.com/Parajulibkrm?tab=repositories"><img width="90%" src="https://github-profile-trophy.vercel.app/?username=parajulibkrm&theme=discord"/></a>
 </details>
 
 
