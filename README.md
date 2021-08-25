@@ -139,7 +139,7 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 <hr>
 
 
-If you wish to contact me please shoot a mail at  [bikram@codekavya.com](mailo: bikram@codekavya.com)
+If you wish to contact me please shoot a mail at  [bikram@codekavya.com](mailto:bikram@codekavya.com)
 
 
 ![](assets/bottom_header.svg)
