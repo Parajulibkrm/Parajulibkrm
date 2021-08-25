@@ -57,7 +57,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark)
 
-
+<hr>
 
 
 ### 📊 Some More Details
@@ -115,6 +115,8 @@
 
   <a href="https://github.com/Parajulibkrm?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=parajulibkrm&column=8&theme=discord&no-frame=true"/></a>
 </details>
+
+<hr>
 
 
 
