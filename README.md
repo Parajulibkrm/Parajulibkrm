@@ -100,10 +100,10 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133068](https://github.com/microsoft/vscode/issues/133068) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#4](https://github.com/BESoftware2020/BESoftware2020/issues/4) in [BESoftware2020/BESoftware2020](https://github.com/BESoftware2020/BESoftware2020)
-3. 💪 Opened PR [#9](https://github.com/developers-nepal/companies/pull/9) in [developers-nepal/companies](https://github.com/developers-nepal/companies)
-4. 💪 Opened PR [#120](https://github.com/mesaugat/tech-companies-in-nepal/pull/120) in [mesaugat/tech-companies-in-nepal](https://github.com/mesaugat/tech-companies-in-nepal)
+1. 🎉 Merged PR [#4](https://github.com/codekavya/codekavya.github.io/pull/4) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
+2. 🎉 Merged PR [#3](https://github.com/codekavya/codekavya.github.io/pull/3) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
+3. 🎉 Merged PR [#1](https://github.com/codekavya/pu.io_mobile/pull/1) in [codekavya/pu.io_mobile](https://github.com/codekavya/pu.io_mobile)
+4. 🎉 Merged PR [#3](https://github.com/codekavya/pu.io/pull/3) in [codekavya/pu.io](https://github.com/codekavya/pu.io)
 <!--END_SECTION:activity-->
 
 
