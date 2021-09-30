@@ -100,10 +100,10 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/codekavya/codekavya.github.io/pull/4) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
-2. 🎉 Merged PR [#3](https://github.com/codekavya/codekavya.github.io/pull/3) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
-3. 🎉 Merged PR [#1](https://github.com/codekavya/pu.io_mobile/pull/1) in [codekavya/pu.io_mobile](https://github.com/codekavya/pu.io_mobile)
-4. 🎉 Merged PR [#3](https://github.com/codekavya/pu.io/pull/3) in [codekavya/pu.io](https://github.com/codekavya/pu.io)
+1. 🗣 Commented on [#1](https://github.com/saugaatadhikari/justDraw/issues/1) in [saugaatadhikari/justDraw](https://github.com/saugaatadhikari/justDraw)
+2. 🎉 Merged PR [#4](https://github.com/codekavya/codekavya.github.io/pull/4) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
+3. 🎉 Merged PR [#3](https://github.com/codekavya/codekavya.github.io/pull/3) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
+4. 🎉 Merged PR [#1](https://github.com/codekavya/pu.io_mobile/pull/1) in [codekavya/pu.io_mobile](https://github.com/codekavya/pu.io_mobile)
 <!--END_SECTION:activity-->
 
 
