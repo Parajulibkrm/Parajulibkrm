@@ -100,10 +100,10 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Parajulibkrm/Parajulibkrm/pull/10) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
-2. 🗣 Commented on [#1](https://github.com/saugaatadhikari/justDraw/issues/1) in [saugaatadhikari/justDraw](https://github.com/saugaatadhikari/justDraw)
-3. 🎉 Merged PR [#4](https://github.com/codekavya/codekavya.github.io/pull/4) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
-4. 🎉 Merged PR [#3](https://github.com/codekavya/codekavya.github.io/pull/3) in [codekavya/codekavya.github.io](https://github.com/codekavya/codekavya.github.io)
+1. ❌ Closed PR [#109](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/109) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
+2. ❌ Closed PR [#110](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/110) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
+3. 🎉 Merged PR [#111](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/111) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
+4. 🎉 Merged PR [#10](https://github.com/Parajulibkrm/Parajulibkrm/pull/10) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 <!--END_SECTION:activity-->
 
 
