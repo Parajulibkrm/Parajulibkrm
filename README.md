@@ -100,10 +100,10 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/Parajulibkrm/Parajulibkrm/pull/11) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
-2. 🎉 Merged PR [#112](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/112) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
-3. ❌ Closed PR [#109](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/109) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
-4. ❌ Closed PR [#110](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/110) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
+1. 💪 Opened PR [#2](https://github.com/arjunadhikary/weatherapp-node/pull/2) in [arjunadhikary/weatherapp-node](https://github.com/arjunadhikary/weatherapp-node)
+2. 🗣 Commented on [#1](https://github.com/Parajulibkrm/WSA-Sideload-APK/issues/1) in [Parajulibkrm/WSA-Sideload-APK](https://github.com/Parajulibkrm/WSA-Sideload-APK)
+3. 🎉 Merged PR [#1](https://github.com/Parajulibkrm/WSA-Sideload-APK/pull/1) in [Parajulibkrm/WSA-Sideload-APK](https://github.com/Parajulibkrm/WSA-Sideload-APK)
+4. 💪 Opened PR [#1](https://github.com/Sandesh-Sharma/Flutter-helper-apps/pull/1) in [Sandesh-Sharma/Flutter-helper-apps](https://github.com/Sandesh-Sharma/Flutter-helper-apps)
 <!--END_SECTION:activity-->
 
 
