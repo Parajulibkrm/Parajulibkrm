@@ -16,4 +16,4 @@ jobs:
         uses: muety/readme-guestbook@v1.0.9
         with:
           token: ${{ secrets.GH_TOKEN }}
-          max_entries: 10
+          max_entries: 30
