@@ -100,10 +100,10 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/Parajulibkrm/Hacktoberfest-Nepal/pull/115) in [Parajulibkrm/Hacktoberfest-Nepal](https://github.com/Parajulibkrm/Hacktoberfest-Nepal)
-2. 🎉 Merged PR [#1](https://github.com/Parajulibkrm/Pollution-bot/pull/1) in [Parajulibkrm/Pollution-bot](https://github.com/Parajulibkrm/Pollution-bot)
-3. 🎉 Merged PR [#2](https://github.com/Parajulibkrm/WSA-Sideload-APK/pull/2) in [Parajulibkrm/WSA-Sideload-APK](https://github.com/Parajulibkrm/WSA-Sideload-APK)
-4. 🎉 Merged PR [#3](https://github.com/Parajulibkrm/Pollution-bot/pull/3) in [Parajulibkrm/Pollution-bot](https://github.com/Parajulibkrm/Pollution-bot)
+1. ❗️ Closed issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
+2. ❗️ Opened issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
+3. 🗣 Commented on [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
+4. ❗️ Reopened issue [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 <!--END_SECTION:activity-->
 
 
