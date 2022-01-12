@@ -1,2 +1,5 @@
 {
+  "dependencies": {
+    "chart.js": "^3.5.1"
+  },
 }
