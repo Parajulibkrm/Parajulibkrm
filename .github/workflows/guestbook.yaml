@@ -11,7 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: Use Node.js
         uses: actions/setup-node@v2
-      - run: npm install
       - name: Update guestbook
         uses: muety/readme-guestbook@v1.0.9
         with:
