@@ -45,18 +45,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia&hide_border=true" />
 </p>
 <br/>
-<p align="center">
-    <img  alt="Bikram's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Parajulibkrm&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
-</p>
-<p align="center">
-    <img alt="Bikram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parajulibkrm&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
-</p>
- 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-![](https://activity-graph.herokuapp.com/graph?username=parajulibkrm&custom_title=Bikram%27s%20Contribution%20Graph&theme=react-dark)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parajulibkrm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parajulibkrm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parajulibkrm&theme=github_dark)
