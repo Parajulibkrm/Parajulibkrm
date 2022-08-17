@@ -43,11 +43,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parajulibkrm&theme=algolia&hide_border=true" width="700"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parajulibkrm&theme=github_dark" width="700"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parajulibkrm&theme=github_dark" width="700"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parajulibkrm&theme=github_dark" width="700"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parajulibkrm&theme=github_dark" width="700"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parajulibkrm&theme=github_dark&utcOffset=8" width="700"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parajulibkrm&theme=github_dark" width="350" align="right"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parajulibkrm&theme=github_dark" width="350"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parajulibkrm&theme=github_dark" width="350" align="right"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parajulibkrm&theme=github_dark" width="350"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parajulibkrm&theme=github_dark&utcOffset=8" width="350" align="right"/>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parajulibkrm&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parajulibkrm&theme=github_dark)
