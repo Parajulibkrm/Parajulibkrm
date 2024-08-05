@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+full-stack+Developer.;Former+CEO+at+Codekavya.;Student+of+Software+Engineering"></a>
+  <a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+Software+Engineer."></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parajulibkrm" height="30" width="40" /></a>
