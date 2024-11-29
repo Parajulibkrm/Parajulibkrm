@@ -29,7 +29,7 @@
 ![](https://skillicons.dev/icons?i=arduino,azure,bots,dynamodb,express,electron,git,graphql,heroku,js,ts,mongodb,netlify,nodejs,postgres,prisma,react,vscode,vercel,workers&perline=20) 
 
 
-### 👨‍💻 I love listening to Music on my leasure time. 🎶
+### 👨‍💻 I love listening to Music on my leisure time. 🎶
 
 <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
