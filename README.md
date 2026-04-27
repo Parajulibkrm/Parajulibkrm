@@ -94,7 +94,7 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
+1. 💪 Opened PR [#4](https://github.com/bimsina/nepali-year-progress/pull/4) in [bimsina/nepali-year-progress](https://github.com/bimsina/nepali-year-progress)
 2. ❗️ Opened issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
 3. 🗣 Commented on [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 4. ❗️ Reopened issue [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
