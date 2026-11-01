@@ -94,7 +94,7 @@
 <summary>⚡ My recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/EBTEAM3/Bambu-Progress-Notification/issues/2#issuecomment-5154976604) in [EBTEAM3/Bambu-Progress-Notification](https://github.com/EBTEAM3/Bambu-Progress-Notification)
+1. 🚀 Published release [Release 2026.11.01-2225](https://github.com/Parajulibkrm/macos-nepali-input-tool/releases/tag/release-2026.11.01-2225) in [Parajulibkrm/macos-nepali-input-tool](https://github.com/Parajulibkrm/macos-nepali-input-tool)
 2. ❗️ Opened issue [#10](https://github.com/muety/muety/issues/10) in [muety/muety](https://github.com/muety/muety)
 3. 🗣 Commented on [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
 4. ❗️ Reopened issue [#18](https://github.com/Parajulibkrm/Parajulibkrm/issues/18) in [Parajulibkrm/Parajulibkrm](https://github.com/Parajulibkrm/Parajulibkrm)
